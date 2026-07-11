@@ -83,7 +83,7 @@ if(app_mode=="Home"):
 ###About Page
 elif(app_mode=="About"):
     st.header("About")
-     image_path_1 = "complete deployment.png"
+    image_path_1 = "complete deployment.png"
     st.image(image_path_1, use_column_width=True)
     st.markdown("""
    ## 📊 Dataset Information
