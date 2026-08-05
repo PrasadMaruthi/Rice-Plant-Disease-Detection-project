@@ -55,7 +55,7 @@ if(app_mode=="Home"):
         **False Smut**  
         **Udabatta**  
         **Bakanae**  
-        **Baharkholidaria**  
+        **Burkholderia**  
         ---  
     ### 🚀 Get Started  
     Navigate to the **"Disease Recognition"** section from the sidebar to upload your image and experience real-time disease detection.  
@@ -167,7 +167,7 @@ elif(app_mode=="Disease Recognition"):
 
             # Define Classes (update according to your dataset)
             class_names = [
-                "Bharkholdaria blight disease",
+                "Burkholderia blight disease",
                 "Brown spot disease",
                 "False smut disease",
                 "Healthy Rice Plant",
@@ -226,7 +226,7 @@ elif(app_mode=="Management Strategies"):
     - Treat seeds with fungicides before sowing  
     - Remove and destroy infected plants  
 
-    ## 🌿 Baharkholidaria (Bakanae / Foot Rot)
+    ## 🌿 Burkholderia 
     - Use **hot water seed treatment** or fungicide-treated seeds  
     - Rogue out infected seedlings early  
 
