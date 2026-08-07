@@ -170,7 +170,6 @@ elif(app_mode=="Disease Recognition"):
                 "Burkholderia blight disease",
                 "Brown spot disease",
                 "False smut disease",
-                "Healthy Rice Plant",
                 "Neck blast disease",
                 "Rice Blast disease",
                 "Sheath blight disease",
