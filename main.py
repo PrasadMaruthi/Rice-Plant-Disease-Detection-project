@@ -167,8 +167,8 @@ elif(app_mode=="Disease Recognition"):
 
             # Define Classes (update according to your dataset)
             class_names = [
-                "Burkholderia blight disease",
                 "Brown spot disease",
+                "Burkholderia blight disease",
                 "False smut disease",
                 "Neck blast disease",
                 "Rice Blast disease",
