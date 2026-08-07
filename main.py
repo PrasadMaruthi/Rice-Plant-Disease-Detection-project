@@ -4,7 +4,7 @@ import numpy as np
 
 ###Tensorflow Model Prediction
 def model_prediction(test_image):
-    model = tf.keras.models.load_model('rice_disease_mobilenetv3.keras')
+    model = tf.keras.models.load_model('best_model.keras')
     image = tf.keras.preprocessing.image.load_img(test_image, target_size=(224, 224))
     input_arr = tf.keras.preprocessing.image.img_to_array(image)
     input_arr = np.array([input_arr]) ##Convert single image to a batch
